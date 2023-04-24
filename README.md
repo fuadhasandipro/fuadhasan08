@@ -4,18 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadhasan08&label=Profile%20views&color=0e75b6&style=flat" alt="fuadhasan08" /> </p>
 
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="400"/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on [Personal Portfolio](dev-flio.netlify.app/)
+- 🔭 I’m currently working on [Personal Portfolio](https://dev-flio.netlify.app/)
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [dev-flio.netlify.app/](dev-flio.netlify.app/)
+- 👨‍💻 All of my projects are available at [dev-flio.netlify.app/](https://dev-flio.netlify.app/)
 
 - 💬 Ask me about **html, css, javascript**
 
 - 📫 How to reach me **contact.wptoday@gmail.com**
-
-- ⚡ Fun fact **I love semicolons; sometimes too much.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
