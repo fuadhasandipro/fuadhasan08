@@ -2,7 +2,7 @@
 <h3 align="center">Transforming ideas into reality through code 👨‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuadhasan08&label=Profile%20views&color=0e75b6&style=flat" alt="fuadhasan08" /> </p>
 
-## 🌐 Socials:
+## 👥 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FuadHasanDipro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fuadhasan08) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@fuadhasandipro007) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13410029) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fuad_hasan008) 
 
 ## 💻 Languages:
